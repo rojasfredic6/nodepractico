@@ -1,0 +1,17 @@
+{
+  "name": "curso_practico_de_nodejs",
+  "version": "1.0.0",
+  "description": "curso practico de nodejs",
+  "main": "index.js",
+  "author": "Tu Nombre <rojas.fredic6@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon api/index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.9"
+  }
+}
